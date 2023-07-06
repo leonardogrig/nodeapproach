@@ -1,0 +1,16 @@
+{
+  "name": "nodeapproach",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.6.0",
+    "natural": "^6.5.0",
+    "openai": "^3.3.0",
+    "superagent": "^8.0.9",
+    "vectorious": "^6.1.11",
+    "youtube-transcript": "^1.0.6"
+  }
+}
